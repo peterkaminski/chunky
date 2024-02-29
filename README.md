@@ -4,6 +4,11 @@
 
 Chunky is a command-line tool designed to automate the process of proofreading and editing large text files. By leveraging the GPT-4 API, it breaks down the input text into manageable chunks, submits them for analysis, and compiles the results. This tool is invaluable for writers, editors, and anyone looking to enhance the quality of their text with the help of advanced AI.
 
+See some similar small tools by the same author, to see if they have anything useful to learn from or borrow:
+
+- [pixie](https://github.com/peterkaminski/pixie) - sends local image files to GPT-4 Vision API
+- [sylph](https://github.com/peterkaminski/sylph) - was intended to grow into a command-line chat interface to OpenAI, never grew very far :-)
+
 ## Features
 
 - **Text Segmentation**: Splits large text files into smaller, paragraph-based segments. (Currently about 100 words long; should be made longer.)
